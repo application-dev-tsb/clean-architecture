@@ -13,4 +13,4 @@ Notes on the book "Clean Architecture" by Uncle Bob
 - polymorphism
 
 #### Functional Programming
-TODO...
+- immutability
