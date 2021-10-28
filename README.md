@@ -11,6 +11,7 @@ Notes on the book "Clean Architecture" by Uncle Bob
 - encapsulation
 - inheritance
 - polymorphism
+  - enables Dependency inversion  
 
 #### Functional Programming
 - immutability
