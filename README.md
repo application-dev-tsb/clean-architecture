@@ -24,6 +24,6 @@ Notes on the book "Clean Architecture" by Uncle Bob
 - Dependency Inversion Principle: high-level concepts should not depend on low-level details
 
 ## Component Cohesion
-- Reuse/Release Equivalency Principle
-- Common Closure Principle
-- Common Reuse Principle
+- Reuse/Release Equivalency Principle - 
+- Common Closure Principle - classes that change together should be released together
+- Common Reuse Principle - ISP for components
