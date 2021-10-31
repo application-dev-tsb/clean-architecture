@@ -22,3 +22,8 @@ Notes on the book "Clean Architecture" by Uncle Bob
 - Liskov Substitution Principle: any implementation of the contract/interface should be a valid substitute
 - Interface Segregation Principle: dont depend on interface that you dont use
 - Dependency Inversion Principle: high-level concepts should not depend on low-level details
+
+## Component Cohesion
+- Reuse/Release Equivalency Principle
+- Common Closure Principle
+- Common Reuse Principle
