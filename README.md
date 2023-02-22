@@ -13,6 +13,26 @@ Notes on the book "Clean Architecture" by Uncle Bob
 - polymorphism
   - enables Dependency inversion  
 
+#### Design Patterns
+- Creational
+  - Singleton
+  - Builder
+  - Factory
+  - Abstract Factory
+  - Prototype
+- Structural
+  - Iterator
+  - Observer
+  - Command
+  - Strategy
+  - Template Method
+- Behavioral
+  - Adapter
+  - Facade
+  - Decorator
+  - Proxy
+  - Composition
+
 #### Functional Programming
 - immutability
 
