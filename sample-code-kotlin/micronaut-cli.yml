@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.codefactory
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, flyway, gradle, http-client, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, openapi, postgres, readme, shade, swagger-ui, testcontainers, yaml]
