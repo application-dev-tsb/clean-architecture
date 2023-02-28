@@ -2,7 +2,7 @@ package dev.codefactory.designpatterns.singleton
 
 import spock.lang.Specification
 
-class SingletonServiceSpec extends Specification {
+class SingletonSpec extends Specification {
 
     def 'it should create a single instance'() {
 
