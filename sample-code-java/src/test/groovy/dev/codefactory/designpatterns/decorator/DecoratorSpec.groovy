@@ -11,6 +11,17 @@ import java.util.function.Supplier
  *
  * Decorator in Spring
  * https://www.youtube.com/watch?v=CzdCmHxWbOg
+ *
+ * E = n/a
+ * A = we abstracted away the code that prepares the string from the code that assembles it for logging
+ * I = n/a
+ * P = at runtime, the decorator could be anything
+ *
+ * S = one reason for change
+ * O = open for extension - by adding a new decorator, no need to modify existing code to add func
+ * L = you can substitute any decorator
+ * I = interfaces were kept simple, we didnt force unrelated implementation
+ * D = the lower level of abstraction was handled by the Message Decorator
  */
 class DecoratorSpec extends Specification {
 
