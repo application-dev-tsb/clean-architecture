@@ -6,11 +6,17 @@ import java.time.LocalDate
 import java.util.function.Supplier
 
 /**
+ * Description:
+ * - dynamically extend behavior without inheritance
+ * - client-specified composition by recursive wrapping
+ *
  * Decorator Pattern
  * https://sourcemaking.com/design_patterns/decorator
  *
  * Decorator in Spring
  * https://www.youtube.com/watch?v=CzdCmHxWbOg
+ *
+ * Personal Comments:
  *
  * E = n/a
  * A = we abstracted away the code that prepares the string from the code that assembles it for logging
